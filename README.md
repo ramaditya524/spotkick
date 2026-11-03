@@ -6,9 +6,7 @@ Take your penalties, keep goal against theirs, and settle it over five kicks eac
 ▶ **Play it:** `https://ramaditya524.github.io/spotkick/`
 
 <!-- Add a screenshot: save one as screenshot.png in the repo root and uncomment the line below -->
-<!-- ![Spot Kick](screenshot.png) -->
-
----
+[![Spot Kick](screenshot.png)](https://ramaditya524.github.io/spotkick/)
 
 ## Features
 
